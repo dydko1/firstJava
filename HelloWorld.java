@@ -5,7 +5,22 @@ public class HelloWorld {
   public static void main(String[] args) throws InterruptedException {
     Thread.sleep(1000);
     System.out.println("Hello, World branch 2");
-    System.out.println("Hello, Miro branch 2");
     Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+    Thread.sleep(1000);
+    System.out.println("Hello, World branch 2");
+
   }
 }
